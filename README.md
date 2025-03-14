@@ -18,7 +18,7 @@ This repository contains a simple Flask-based API that integrates with Azure Ope
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lamakye7/Custom_Chatbot_with_AzureOpenAI.git
+   git clone https://github.com/lamakye7/RAG-App.git
    cd your-repo
    ```
 2. Install dependencies:
